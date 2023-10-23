@@ -153,6 +153,7 @@ body {
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                pointer-events: none;
 
                 background-color: var(--secondary-bg);
                 padding: 15px;
